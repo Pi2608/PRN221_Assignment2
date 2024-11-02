@@ -1,0 +1,15 @@
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\bin\Debug\net6.0\Candidate_BussinessObject.deps.json
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\bin\Debug\net6.0\Candidate_BussinessObject.runtimeconfig.json
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\bin\Debug\net6.0\Candidate_BussinessObject.dll
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\bin\Debug\net6.0\Candidate_BussinessObject.pdb
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.csproj.AssemblyReference.cache
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.AssemblyInfoInputs.cache
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.AssemblyInfo.cs
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.dll
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\refint\Candidate_BussinessObject.dll
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.pdb
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.genruntimeconfig.cache
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\ref\Candidate_BussinessObject.dll
+C:\Users\ibaxq\Desktop\FPTU\Semester7\PRN221\Web\Candidate_BussinessObject\obj\Debug\net6.0\Candidate_BussinessObject.sourcelink.json

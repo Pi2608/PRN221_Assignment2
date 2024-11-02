@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CandidateManagement_LeDangPhucDat_RazorPage.props" />
+</Project>
